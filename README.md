@@ -16,12 +16,12 @@ Para rodar este projeto, você precisará de um navegador web moderno (como Goog
 
 1. **Clone o repositório:**
     ```bash
-    git clone https://github.com/seu-usuario/verificador-de-senha.git
+    git clone https://github.com/renantorres07/forca-de-senha.git
     ```
 
 2. **Navegue até o diretório do projeto:**
     ```bash
-    cd verificador-de-senha
+    cd forca-de-senha
     ```
 
 ### 🎮 Executando o verificador
